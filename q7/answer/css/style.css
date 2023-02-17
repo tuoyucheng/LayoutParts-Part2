@@ -12,7 +12,8 @@
   margin: 0 auto;
 }
 
-.blowing--box:before,.blowing--box:after {
+.blowing--box:before,
+.blowing--box:after {
   content: "";
   position: absolute;
   border: 20px solid transparent;

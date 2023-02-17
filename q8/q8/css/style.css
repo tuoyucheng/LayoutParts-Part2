@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-.content{
+.content {
   height: 500px;
 }
 
@@ -10,16 +10,13 @@
 }
 
 .back-img-repeat {
-  background: url(../../image/coffee-background.jpg) 
-  no-repeat;
+  background: url(../../image/coffee-background.jpg) no-repeat;
 }
 
 .back-im-cover {
-  background: url(../../image/coffee-background.jpg) 
-  no-repeat center/cover;
+  background: url(../../image/coffee-background.jpg) no-repeat center/cover;
 }
 
 .back-img-contain {
-  background: url(../../image/coffee-background.jpg) 
-  no-repeat center/contain;
+  background: url(../../image/coffee-background.jpg) no-repeat center/contain;
 }
